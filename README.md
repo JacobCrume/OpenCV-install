@@ -1,2 +1,2 @@
 # OpenCV-install
-Script to install opencv on raspberry pi
+Script to install Opencv on Raspberry Pi.
